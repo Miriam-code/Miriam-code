@@ -1,6 +1,7 @@
 ### HI👋 , I'M MIRIAM
+<hr>
 
-> ✨ A Fullstack mobile web and web developer ✨ 
+>✨ A Fullstack mobile web and web developer ✨ 
 
 - 🌱 I’m currently learning Javascript
 
