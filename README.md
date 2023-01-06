@@ -6,6 +6,6 @@
 
 - 📫 How to reach me miriamladjoui@gmail.com 
 
-- ⚡ Creativity, imagination and determination have always been my driving forces on a daily basis!
+- ⚡ Creativity, imagination and determination have always been my driving forces on a daily basis !
  
  
