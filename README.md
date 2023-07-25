@@ -3,7 +3,7 @@
 
 ### ✨ A Fullstack mobile web and web developer ✨ 
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me miriamladjoui@gmail.com 
 
