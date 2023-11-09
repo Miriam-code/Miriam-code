@@ -1,9 +1,9 @@
-### HI👋 , I'M MIRIAM
+### HI👋 , I'M MIRIAM 
 <hr>
 
 ### ✨ A Fullstack mobile web and web developer ✨ 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Typescript
 
 - 📫 How to reach me miriamladjoui@gmail.com 
 
