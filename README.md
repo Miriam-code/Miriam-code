@@ -3,7 +3,6 @@
 
 ### ✨ A Fullstack mobile web and web developer ✨ 
 
-- 🌱 I’m currently learning Typescript
 
 - 📫 How to reach me miriamladjoui@gmail.com 
 
